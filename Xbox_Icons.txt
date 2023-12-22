@@ -1,0 +1,105 @@
+Xbox-Symbol:‍ 
+Xbox : 
+Archivment mit Person: 
+Kamerabenachrichtigung: 
+Verbotssymbol: 
+Joystick: 
+Krone Hyped : 
+Gruselauge: 
+Seltsame Sache: 
+Datei-Explorer-Symbol (ein Ordner): 
+Bausteine: 
+Lupe: 
+Lupe mit + Innen: 
+Kreisumriss: 
+Etwas: 
+UKW-Funkturm mit Funkwellen: 
+Sache mit der Xbox Live Vision-Kamera: 
+Blockierte Kamera: 
+Medaille: 
+Dreieck mit Linie darunter: 
+Headset : 
+Film (wie in alten Kameras): 
+Wiedergabe und Pause: 
+Freigeschaltete Trophäe: 
+Häkchen (nicht wie unsere Emojis): 
+Box mit Linie innen: 
+Benachrichtigungsglocke: 
+Chat-Blase: 
+Gefahrendreieck: 
+Fragezeichen: 
+Schokoriegel Ding: 
+Großes i: 
+Disk With Box With HD inside it (HD Disk?):
+4K : 
+Quadrat: 
+Datenträger: 
+Großes X: 
+WLAN: 
+Schlechtes Wlan : 
+Kopfhörer: 
+Controller (innen halb weiß, halb blau): 
+Pause: 
+Kamera (keine Sichtkamera): 
+Sperren: 
+Einstellungen Zahnrad: 
+Rechner: 
+World Wide Web Globe (Internetsphäre): 
+Kabelköpfe: 
+Aktualisierungspfeil: 
+Microsoft Punkte: 
+Microsoft Store : 
+Xbox Ambassador: 
+Xbox One Gamerscore G: 
+
+Tasten:
+Left On The D-Pad Notifier: 
+Direkt auf dem D-Pad-Notifier: 
+Oben auf dem D-Pad-Notifier: 
+Unten auf dem D-Pad-Melder: 
+Nur ein D-Pad: 
+Rechter Auslöser: 
+Rechter Stoßfänger: 
+Rechter JoyStick Benachrichtigung nach links bewegen: 
+Rechter JoyStick Benachrichtigung nach oben: 
+Rechter JoyStick Benachrichtigung nach rechts bewegen: 
+Rechter JoyStick Benachrichtigung nach unten: 
+Benachrichtigung über rechten JoyStick gedrückt: 
+Linker Auslöser: 
+Linker Stoßfänger: 
+Linker JoyStick Benachrichtigung nach links bewegen: 
+Linker JoyStick Benachrichtigung nach oben: 
+Linker JoyStick Benachrichtigung nach rechts bewegen: 
+Linker JoyStick Benachrichtigung nach unten: 
+Benachrichtigung über linken JoyStick gedrückt: 
+Start-Button (drei Striche davor): 
+Starttaste mit Kreis: 
+Auswahltaste (zwei Rechtecke): 
+X-Taste: 
+Y-Taste: 
+B-Taste: 
+A-Taste: 
+
+Copyright : ™ ®
+
+Master Chief:  
+Gold Banner: 
+EA Icon : 
+Xbox Connect : 
+mixer : 
+Diamond : 
+Ultimate Banner (Filled): 
+Ultimate Banner (transparent) : 
+Discord Nitro:  
+Trophy (Achievement): 
+Video ("YouTube"): 
+Instagram: 
+Twitter: 
+Facebook: 
+Tick: 
+Filled Heart:  
+Original Xbox:  
+PC:  
+Windows 11:  
+Verified 
+Xbox Series X (Filled): 
